@@ -4,8 +4,7 @@ Bridging Web2 Simplicity with Web3 Innovation
 Project Name
 NERO Nexus
 
-Project Image
-Insert a high-resolution conceptual logo/graphic that visually communicates simplicity, connectivity, and innovation. (Example: a fusion of network nodes with a minimalistic, user-friendly design.)
+
 
 1. Project Overview
 NERO Nexus is an innovative decentralized application that converges the best of GameFi, SocialFi, and DeFi on the NERO Chain. Our mission is to onboard mainstream users into Web3 by providing a familiar, intuitive interface paired with powerful blockchain functionalities—without the traditional complexities. By leveraging NERO Chain’s Account Abstraction (AA) and the Paymaster (AA-Platform), Nexus enables gasless, seamless interactions that mirror the ease-of-use of Web2 applications.
